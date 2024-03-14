@@ -1,0 +1,26 @@
+.main-bg {
+  background-color: bisque;
+  height: 100vh;
+  background-size: cover;
+}
+
+.login-details {
+  height: 100vh;
+  width: 100%;
+}
+
+input {
+  border-radius: 5px;
+  border: 1px solid cadetblue;
+}
+
+.form-style {
+  background-color: aliceblue;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.additional-info {
+  border: 2px dotted red;
+}
